@@ -10,18 +10,8 @@ MemGPT is a system that intelligently manages different levels of memory in LLMs
 
 By combining AutoGen's orchestration capabilities with the natural language processing power of LLMs, MemGPT's memory, and using Python as a scripting language to link these components, one can create a robust and versatile agent capable of handling a variety of complex tasks while interacting smoothly and naturally with users. The vision for Employai is the complete integration of this concept with "open source" models (GPT-3, HuggingFace Transformers, etc.) offline. Thus, a high-performance computer would host an LLM that would serve the agents required by a local API. This would reduce the operating costs of the models, increase information security, and allow the models to evolve in their respective environments. The integration of VoIP (Voice over IP) could enable communication between humans and LLMs. This would allow them to function at the same level as a human employee working remotely. [Employai GitHub Repository](https://github.com/Jepse/employai).
 
-# FR
-
-Chaque jours l’évolution de l’intelligence artificielle fait un bond exponentiel. Le présent document introduit un concept qui combine les technologies et librairies les plus récentes pour obtenir “Employai”(prononcé "Employé") 
-une combinaison innovante de LLM("GPT, Llama, autres"), Microsoft Autogen, MemGPT et Python.
-
-
-AutoGen est un cadre développé par Microsoft pour simplifier l'orchestration, l'optimisation et l'automatisation des flux de travail basés sur les Modèles de Langage de Grande Taille (LLM). Il permet de créer des applications de nouvelle génération basées sur des conversations multi-agents avec un effort minimal. Il offre des agents personnalisables et conversables qui intègrent les capacités des LLMs les plus avancés, tels que GPT-4, tout en surmontant leurs limitations en intégrant des interactions avec des humains et des outils.
-AutoGen est le résultat de recherches collaboratives entre Microsoft, la Penn State University et l'Université de Washington. Pour plus d'informations, vous pouvez consulter l'article officiel:
-https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/ Autogen GitHub https://github.com/microsoft/autogen 
-MemGPT est un système qui gère intelligemment différents niveaux de mémoire dans les LLMs afin de fournir efficacement un contexte étendu dans la fenêtre de contexte limitée. Par exemple, MemGPT sait quand pousser des informations critiques vers une base de données vectorielle et quand la récupérer plus tard, permettant des conversations perpétuelles. Le concept est inspiré des systèmes de mémoire hiérarchiques des systèmes d'exploitation traditionnels. Il utilise une technique appelée gestion de contexte virtuel pour gérer les mouvements de données entre la mémoire rapide et lente.
-Le code et les données pour les expériences de MemGPT sont disponibles sur leur site officiel et leur répertoire GitHub.
-
-En combinant les capacités d'orchestration d'AutoGen avec la puissance de traitement du langage naturel des LLMs, la mémoire de MemGPT, et en utilisant Python comme langue de script pour lier ces composants, on peut créer un agent robuste et polyvalent capable de gérer une variété de tâches complexes tout en interagissant de manière fluide et naturelle avec les utilisateurs. 
-La vision pour Employai c’est l’integration complète de ce concept avec les modèles “open source” (GPT-3, HuggingFace Transformers, etc) hors ligne. Donc une ordinateur performante serais l’hôte d’un LLM qui lui servirais les agents requis par un api local. Ceci réduirait les couts d’exploitation des modèles, augmenterais la sécurité de l’information et permettrais au modèles d’évoluer dans leurs environnements respectifs.
-L’intégration de VoIP(Voix sur IP) pourrais permettre la communication entre humains et LLM. Cela permettrais a ceux ci d’être fonctionnel au même niveau qu’un employé humain qui travail à distance.
+![researcher](https://github.com/Jepse/Employai/assets/35108098/0625fae3-d55d-4feb-8be2-05a1cf79dbc2)
+![writer](https://github.com/Jepse/Employai/assets/35108098/9ec6daa4-b090-4f00-afcc-e4bbc974e699)
+![developer](https://github.com/Jepse/Employai/assets/35108098/72fbae1c-4b10-4e7d-b198-35f55c88c959)
+![editor](https://github.com/Jepse/Employai/assets/35108098/c16979b1-3225-4df6-8b8e-1153eb38689a)
+![marketing](https://github.com/Jepse/Employai/assets/35108098/afdfd1e9-0b33-4a14-892f-ad68b304f2dc)
