@@ -2,7 +2,7 @@
 # LLM + Autogen + MemGPT + Python = Employai ⭐
 by Jean-Philippe Simard assisted by GPT-4
 
-Every day, the evolution of artificial intelligence takes an exponential leap. This document introduces a concept that combines the latest technologies and libraries to achieve "Employai" (pronounced "Employee"), an innovative combination of LLM ("GPT, Llama, others"), Microsoft Autogen, MemGPT, and Python.
+Every day, the evolution of artificial intelligence takes an exponential leap. This document introduces a concept that combines the latest technologies and libraries to achieve "Employai"(pronounced like the french word "Employé"), an innovative combination of LLM ("GPT, Llama, others"), Microsoft Autogen, MemGPT, and Python.
 
 AutoGen is a framework developed by Microsoft to simplify the orchestration, optimization, and automation of workflows based on Large Language Models (LLM). It allows for the creation of next-generation applications based on multi-agent conversations with minimal effort. It provides customizable and conversational agents that integrate the capabilities of the most advanced LLMs, such as GPT-4, while overcoming their limitations by incorporating interactions with humans and tools. AutoGen is the result of collaborative research between Microsoft, Penn State University, and the University of Washington. For more information, you can refer to the official article: [Microsoft's Official Article on AutoGen](https://www.microsoft.com/en-us/research/blog/autogen-enabling-next-generation-large-language-model-applications/) and [Autogen GitHub](https://github.com/microsoft/autogen).
 
