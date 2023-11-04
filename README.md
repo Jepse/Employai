@@ -26,7 +26,8 @@ The strategy involves careful analysis and integration of existing frameworks's 
 
 The development of AI should not only be measured by the pace of advancement but by the sustainability and quality of the systems we build. "Employai" represents a commitment to this philosophy, seeking to combine the capabilities of leading frameworks like autoGPT, AutoGen, memGPT, and SolidGPT into a platform that is as user-friendly as it is powerful. This approach is poised to forge a path where development is driven by thoughtful consideration, ensuring that the AI field progresses in a manner that is both innovative and sound.
 
-### Mention ⭐
+### Mentions ⭐
 
 OpenBMB's ChatDev has taken the modular approach for their development. The structure they have created is very easy to read write and append. SaglabsAi is basing Employai's structure on this project.
 
+David Shapiro's Sparse Priming Representation - https://github.com/daveshap/SparsePrimingRepresentations - ## theory-application.md 
