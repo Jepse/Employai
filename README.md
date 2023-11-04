@@ -30,4 +30,4 @@ The development of AI should not only be measured by the pace of advancement but
 
 OpenBMB's ChatDev has taken the modular approach for their development. The structure they have created is very easy to read write and append. SaglabsAi is basing Employai's structure on this project.
 
-David Shapiro's Sparse Priming Representation - https://github.com/daveshap/SparsePrimingRepresentations - ## theory-application.md 
+David Shapiro's Sparse Priming Representation - https://github.com/daveshap/SparsePrimingRepresentations - theory-application.md 
