@@ -1,4 +1,4 @@
-### Parsing codebase with SPR Technique
+### Parsing codebase with SPR Technique - Code Parsing Representation(CPR)
 
 #### 1. Parsing the Codebase
 - **Objective**: To parse and analyze the codebase to extract crucial information.
