@@ -22,11 +22,6 @@ Presently we seem to be in the state of 'automation' i call it. Everyone wants t
 New platforms everyday, all doing the same thing, wrapping LLMs behind massive amount of data to be computed,
 using paid APIs to power their platforms and/or charging for copy/paste services(marketing competition).
 
-## LAM OS
-
-LAM OS (Large Action Model Operating System) by Rabbit
-https://www.rabbit.tech/research
-
 ### Division in the thought process.
 
 Are we building GUIs for LAMs to interact with instead of humans??
